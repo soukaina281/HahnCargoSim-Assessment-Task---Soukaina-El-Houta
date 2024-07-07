@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HahnCargoTransportation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7d60c60ee741d11c5749e4475ce2634001768c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("HahnCargoTransportation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HahnCargoTransportation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

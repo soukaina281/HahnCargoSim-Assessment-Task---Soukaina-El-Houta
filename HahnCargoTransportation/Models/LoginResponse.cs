@@ -1,4 +1,4 @@
-﻿namespace HahnCargoTransportation
+﻿namespace HahnCargoTransportation.Models
 {
     public class LoginResponse
     {

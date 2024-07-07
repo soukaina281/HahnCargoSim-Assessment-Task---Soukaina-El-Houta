@@ -1,4 +1,6 @@
-﻿namespace HahnCargoTransportation.Services.Interfaces
+﻿using HahnCargoTransportation.Models;
+
+namespace HahnCargoTransportation.Services.Interfaces
 {
     public interface IUserService
     {
