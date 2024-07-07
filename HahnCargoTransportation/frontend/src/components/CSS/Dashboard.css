@@ -1,0 +1,61 @@
+/* Dashboard.css */
+
+.dashboard-container {
+    padding: 2rem;
+    background-color: #f0f2f5;
+    min-height: 100vh;
+}
+
+.dashboard-container .dashboard-box {
+    background: #fff;
+    padding: 2rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.dashboard-container .title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #333;
+    text-align: center;
+}
+
+.greeting {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.dashboard-container .coin-amount {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    color: #555;
+    text-align: center;
+}
+
+.dashboard-container .button {
+    display: block;
+    width: 100%;
+    padding: 0.5rem;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-bottom: 1rem;
+}
+
+.dashboard-container .button:hover {
+    background-color: #45a049;
+}
+
+.dashboard-container .button-stop {
+    background-color: #f44336;
+}
+
+.dashboard-container .button-stop:hover {
+    background-color: #d32f2f;
+}

@@ -1,0 +1,25 @@
+/* OrderStatus.css */
+
+.order-status {
+    margin-top: 2rem;
+    background: #fff;
+    padding: 1rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.order-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.order-item {
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.order-item:hover {
+    background-color: #f0f0f0;
+}

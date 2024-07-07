@@ -1,0 +1,36 @@
+/* TransporterStatus.css */
+
+.transporter-status {
+    margin-top: 2rem;
+    background: #fff;
+    padding: 1rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.transporter-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.transporter-item {
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.transporter-item:hover {
+    background-color: #f0f0f0;
+}
+
+.transporter-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.5rem;
+}
+
+.transporter-info strong {
+    margin-right: 0.5rem;
+}

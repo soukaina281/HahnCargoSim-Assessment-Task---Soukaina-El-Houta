@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SoukainaElHouta\\Desktop\\HahnCargoTransportation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3084562-81EE-44F5-9FB7-9607BDB17485}|HahnCargoTransportation\\HahnCargoTransportation.csproj|c:\\users\\soukainaelhouta\\desktop\\hahncargotransportation\\hahncargotransportation\\controllers\\usercontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3084562-81EE-44F5-9FB7-9607BDB17485}|HahnCargoTransportation\\HahnCargoTransportation.csproj|solutionrelative:hahncargotransportation\\controllers\\usercontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3084562-81EE-44F5-9FB7-9607BDB17485}|HahnCargoTransportation\\HahnCargoTransportation.csproj|c:\\users\\soukainaelhouta\\desktop\\hahncargotransportation\\hahncargotransportation\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3084562-81EE-44F5-9FB7-9607BDB17485}|HahnCargoTransportation\\HahnCargoTransportation.csproj|solutionrelative:hahncargotransportation\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3084562-81EE-44F5-9FB7-9607BDB17485}|HahnCargoTransportation\\HahnCargoTransportation.csproj|c:\\users\\soukainaelhouta\\desktop\\hahncargotransportation\\hahncargotransportation\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3084562-81EE-44F5-9FB7-9607BDB17485}|HahnCargoTransportation\\HahnCargoTransportation.csproj|solutionrelative:hahncargotransportation\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3084562-81EE-44F5-9FB7-9607BDB17485}|HahnCargoTransportation\\HahnCargoTransportation.csproj|c:\\users\\soukainaelhouta\\desktop\\hahncargotransportation\\hahncargotransportation\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3084562-81EE-44F5-9FB7-9607BDB17485}|HahnCargoTransportation\\HahnCargoTransportation.csproj|solutionrelative:hahncargotransportation\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3084562-81EE-44F5-9FB7-9607BDB17485}|HahnCargoTransportation\\HahnCargoTransportation.csproj|c:\\users\\soukainaelhouta\\desktop\\hahncargotransportation\\hahncargotransportation\\controllers\\simulationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3084562-81EE-44F5-9FB7-9607BDB17485}|HahnCargoTransportation\\HahnCargoTransportation.csproj|solutionrelative:hahncargotransportation\\controllers\\simulationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3084562-81EE-44F5-9FB7-9607BDB17485}|HahnCargoTransportation\\HahnCargoTransportation.csproj|c:\\users\\soukainaelhouta\\desktop\\hahncargotransportation\\hahncargotransportation\\services\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3084562-81EE-44F5-9FB7-9607BDB17485}|HahnCargoTransportation\\HahnCargoTransportation.csproj|solutionrelative:hahncargotransportation\\services\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3084562-81EE-44F5-9FB7-9607BDB17485}|HahnCargoTransportation\\HahnCargoTransportation.csproj|c:\\users\\soukainaelhouta\\desktop\\hahncargotransportation\\hahncargotransportation\\services\\simulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3084562-81EE-44F5-9FB7-9607BDB17485}|HahnCargoTransportation\\HahnCargoTransportation.csproj|solutionrelative:hahncargotransportation\\services\\simulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3084562-81EE-44F5-9FB7-9607BDB17485}|HahnCargoTransportation\\HahnCargoTransportation.csproj|c:\\users\\soukainaelhouta\\desktop\\hahncargotransportation\\hahncargotransportation\\services\\transporterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3084562-81EE-44F5-9FB7-9607BDB17485}|HahnCargoTransportation\\HahnCargoTransportation.csproj|solutionrelative:hahncargotransportation\\services\\transporterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3084562-81EE-44F5-9FB7-9607BDB17485}|HahnCargoTransportation\\HahnCargoTransportation.csproj|c:\\users\\soukainaelhouta\\desktop\\hahncargotransportation\\hahncargotransportation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3084562-81EE-44F5-9FB7-9607BDB17485}|HahnCargoTransportation\\HahnCargoTransportation.csproj|solutionrelative:hahncargotransportation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3084562-81EE-44F5-9FB7-9607BDB17485}|HahnCargoTransportation\\HahnCargoTransportation.csproj|c:\\users\\soukainaelhouta\\desktop\\hahncargotransportation\\hahncargotransportation\\controllers\\gridcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3084562-81EE-44F5-9FB7-9607BDB17485}|HahnCargoTransportation\\HahnCargoTransportation.csproj|solutionrelative:hahncargotransportation\\controllers\\gridcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3084562-81EE-44F5-9FB7-9607BDB17485}|HahnCargoTransportation\\HahnCargoTransportation.csproj|c:\\users\\soukainaelhouta\\desktop\\hahncargotransportation\\hahncargotransportation\\models\\cargotransporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3084562-81EE-44F5-9FB7-9607BDB17485}|HahnCargoTransportation\\HahnCargoTransportation.csproj|solutionrelative:hahncargotransportation\\models\\cargotransporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController .cs",
+              "DocumentMoniker": "C:\\Users\\SoukainaElHouta\\Desktop\\HahnCargoTransportation\\HahnCargoTransportation\\Controllers\\UserController .cs",
+              "RelativeDocumentMoniker": "HahnCargoTransportation\\Controllers\\UserController .cs",
+              "ToolTip": "C:\\Users\\SoukainaElHouta\\Desktop\\HahnCargoTransportation\\HahnCargoTransportation\\Controllers\\UserController .cs",
+              "RelativeToolTip": "HahnCargoTransportation\\Controllers\\UserController .cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwB4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:47:06.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\SoukainaElHouta\\Desktop\\HahnCargoTransportation\\HahnCargoTransportation\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "HahnCargoTransportation\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\SoukainaElHouta\\Desktop\\HahnCargoTransportation\\HahnCargoTransportation\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "HahnCargoTransportation\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:36:59.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\SoukainaElHouta\\Desktop\\HahnCargoTransportation\\HahnCargoTransportation\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "HahnCargoTransportation\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\SoukainaElHouta\\Desktop\\HahnCargoTransportation\\HahnCargoTransportation\\LoginResponse.cs",
+              "RelativeToolTip": "HahnCargoTransportation\\LoginResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:33:15.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\SoukainaElHouta\\Desktop\\HahnCargoTransportation\\HahnCargoTransportation\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "HahnCargoTransportation\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\SoukainaElHouta\\Desktop\\HahnCargoTransportation\\HahnCargoTransportation\\Services\\UserService.cs",
+              "RelativeToolTip": "HahnCargoTransportation\\Services\\UserService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:31:35.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimulationController.cs",
+              "DocumentMoniker": "C:\\Users\\SoukainaElHouta\\Desktop\\HahnCargoTransportation\\HahnCargoTransportation\\Controllers\\SimulationController.cs",
+              "RelativeDocumentMoniker": "HahnCargoTransportation\\Controllers\\SimulationController.cs",
+              "ToolTip": "C:\\Users\\SoukainaElHouta\\Desktop\\HahnCargoTransportation\\HahnCargoTransportation\\Controllers\\SimulationController.cs",
+              "RelativeToolTip": "HahnCargoTransportation\\Controllers\\SimulationController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:09:17.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GridController.cs",
+              "DocumentMoniker": "C:\\Users\\SoukainaElHouta\\Desktop\\HahnCargoTransportation\\HahnCargoTransportation\\Controllers\\GridController.cs",
+              "RelativeDocumentMoniker": "HahnCargoTransportation\\Controllers\\GridController.cs",
+              "ToolTip": "C:\\Users\\SoukainaElHouta\\Desktop\\HahnCargoTransportation\\HahnCargoTransportation\\Controllers\\GridController.cs",
+              "RelativeToolTip": "HahnCargoTransportation\\Controllers\\GridController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:08:46.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CargoTransporter.cs",
+              "DocumentMoniker": "C:\\Users\\SoukainaElHouta\\Desktop\\HahnCargoTransportation\\HahnCargoTransportation\\Models\\CargoTransporter.cs",
+              "RelativeDocumentMoniker": "HahnCargoTransportation\\Models\\CargoTransporter.cs",
+              "ToolTip": "C:\\Users\\SoukainaElHouta\\Desktop\\HahnCargoTransportation\\HahnCargoTransportation\\Models\\CargoTransporter.cs",
+              "RelativeToolTip": "HahnCargoTransportation\\Models\\CargoTransporter.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:39:39.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SoukainaElHouta\\Desktop\\HahnCargoTransportation\\HahnCargoTransportation\\Program.cs",
+              "RelativeDocumentMoniker": "HahnCargoTransportation\\Program.cs",
+              "ToolTip": "C:\\Users\\SoukainaElHouta\\Desktop\\HahnCargoTransportation\\HahnCargoTransportation\\Program.cs",
+              "RelativeToolTip": "HahnCargoTransportation\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAvwCIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:43:45.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SimulationService.cs",
+              "DocumentMoniker": "C:\\Users\\SoukainaElHouta\\Desktop\\HahnCargoTransportation\\HahnCargoTransportation\\Services\\SimulationService.cs",
+              "RelativeDocumentMoniker": "HahnCargoTransportation\\Services\\SimulationService.cs",
+              "ToolTip": "C:\\Users\\SoukainaElHouta\\Desktop\\HahnCargoTransportation\\HahnCargoTransportation\\Services\\SimulationService.cs",
+              "RelativeToolTip": "HahnCargoTransportation\\Services\\SimulationService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:39:03.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RabbitMqService.cs",
+              "DocumentMoniker": "C:\\Users\\SoukainaElHouta\\Desktop\\HahnCargoTransportation\\HahnCargoTransportation\\Services\\RabbitMqService.cs",
+              "RelativeDocumentMoniker": "HahnCargoTransportation\\Services\\RabbitMqService.cs",
+              "ToolTip": "C:\\Users\\SoukainaElHouta\\Desktop\\HahnCargoTransportation\\HahnCargoTransportation\\Services\\RabbitMqService.cs",
+              "RelativeToolTip": "HahnCargoTransportation\\Services\\RabbitMqService.cs",
+              "ViewState": "AQIAABwBAAAAAAAAAAAewC4BAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T22:26:42.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransporterService.cs",
+              "DocumentMoniker": "C:\\Users\\SoukainaElHouta\\Desktop\\HahnCargoTransportation\\HahnCargoTransportation\\Services\\TransporterService.cs",
+              "RelativeDocumentMoniker": "HahnCargoTransportation\\Services\\TransporterService.cs",
+              "ToolTip": "C:\\Users\\SoukainaElHouta\\Desktop\\HahnCargoTransportation\\HahnCargoTransportation\\Services\\TransporterService.cs",
+              "RelativeToolTip": "HahnCargoTransportation\\Services\\TransporterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T22:14:33.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
